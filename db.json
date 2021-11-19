@@ -1,24 +1,27 @@
+
 {
-  "todos": [
+  "restaurants":
+  [
     {
-      "id": 0,
-      "name": "Go to the gym",
-      "done": false
+  "name":"nha hang xxxx",
+  "code_voucher":"123123123",
+  "price":"5000000",
+  "create_at":"",
+  "user_info":"Nguyen van a"
     },
     {
-      "id": 1,
-      "name": "Walk the dog",
-      "done": false
+  "name":"nha hang yyyyy",
+  "code_voucher":"123456789",
+  "price":"5000000",
+  "create_at":"",
+  "user_info":"Nguyen van b"
     },
     {
-      "id": 2,
-      "name": "Get some pizza",
-      "done": false
+  "name":"nha hang zzzz",
+  "code_voucher":"123456789",
+  "price":"5000000",
+  "create_at":"",
+  "user_info":"Nguyen van b"
     },
-    {
-      "name": "Finish this project",
-      "id": 3,
-      "done": false
-    }
   ]
 }
